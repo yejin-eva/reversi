@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>tosize_2/ui_tosize_대지 1 사본 2.png</file>
+        <file>tosize_2/ui_tosize_대지 1 사본.png</file>
+        <file>tosize_2/ui_tosize_대지 1.png</file>
+        <file>tosize_2/ui_tosize-04.png</file>
+        <file>tosize_2/ui_tosize-05.png</file>
+        <file>tosize_2/ui_tosize-06.png</file>
+        <file>tosize_2/ui_tosize-07.png</file>
+        <file>tosize_2/ui_tosize-08.png</file>
+        <file>tosize_2/ui_tosize-09.png</file>
+        <file>tosize_2/ui_tosize-10.png</file>
+    </qresource>
+</RCC>

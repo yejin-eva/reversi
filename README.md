@@ -1,5 +1,6 @@
 # reversi
 Programming 2 board game clone project using c++
+
 Fill the board with as many of your color pieces. If you trap your opponent's pieces inbetween yours, the pieces turn into your color and vice versa. 
 
 Game Modes: 

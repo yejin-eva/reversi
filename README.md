@@ -1,4 +1,5 @@
 # reversi
+Notion link: https://factual-cabbage-46e.notion.site/Reversi-adf2e14aa978425a928eca5698de47d6 
 Programming 2 board game clone project using c++
 
 Fill the board with as many of your color pieces. If you trap your opponent's pieces inbetween yours, the pieces turn into your color and vice versa. 
